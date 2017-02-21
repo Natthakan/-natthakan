@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'edpensook';
+	src: url('edpensook-webfont.eot');
+	src: url('edpensook-webfont.eot?#iefix') format('embedded-opentype'),
+		url('edpensook-webfont.woff') format('woff'),
+		url('edpensook-webfont.ttf') format('truetype'),
+		url('edpensook-webfont.svg') format('svg');
+}
