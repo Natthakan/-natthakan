@@ -1,0 +1,213 @@
+@charset "UTF-8";
+body {
+	margin: 0px;
+	background-color: #fff;
+}
+h1{font-size :24px;}
+h2{font-size :30px;}
+h3{font-size :40px;}
+p{font-size :22px;}
+a{color :#000000;}
+a:link, a:visited, a:active, a:hover {text-decoration: none;}
+a:hover{
+	color:#df0024;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #fff;
+}
+.active {
+    background-color: #4CAF50;
+}
+
+/* Change the link color to #111 (black) on hover */
+
+#banner{
+    margin-left: 10px;
+	width: 1300px;
+	height: 200px;
+	float: left;
+	background-position: top right;
+	
+}
+#login{
+	width: 1100px;
+	height: 20px;
+	text-align: center;
+	font-size: 18px;
+	margin:auto;
+}
+
+
+.boxinput{
+	font-size: 16px;
+	color: #683c15;
+	background-color: #FFF;
+	padding-left: 10px;
+	height: 25px;
+	width: 320px;
+	margin-bottom: 10px;
+}
+.boxsubmit {
+	font-size: 16px;
+	color: #fefefe;
+	background-color: #df0024;
+	height: 35px;
+	width: 333px;
+	margin-bottom: 3px;
+}
+
+#box{
+	width: 1140px;
+	height: 500px;
+	float: left;
+	margin-left: 50px;
+}
+#boxx{
+	width: 150px;
+	height: 500px;
+	float: left;
+}
+
+.box1{
+	width: 130px;
+	height: 130px;
+	opacity: 0.5;
+}
+
+.box1:hover{
+	opacity: 1;
+    
+}
+.active{
+	opacity: 1;
+    
+}
+.boxproduct{
+	padding-top: 50px;
+	padding-left: 70px;
+	width: 1100px;
+	height: 300px;
+	float: left;
+}
+
+.product{
+	width: 205px;
+	height: 300px;
+	margin-left: 5px;
+	color: #f76838;
+	text-align: center;
+	opacity: 0.7;
+	float: left;
+	padding-left: 20px;
+}
+
+
+.product:hover{
+	opacity: 2;
+    
+}
+.select{
+	padding-top: 10px;
+	padding-left: 170px;
+	float: left;
+	text-align: center;
+	padding-right: 50px;
+}
+.text{
+	padding-top: 40px;
+	width: 500px;
+	height: 310px;
+	float: left;
+}
+
+#btn{
+	width: 750px;
+	padding-left: 0px;
+	float: left;
+
+}
+
+.btn_back{
+	width: 150px;
+	height: 30px;
+	background: #000000;
+	float: left;
+	color: #ffffff;
+	font-size: 22px;
+	padding-top: 10px;
+	border: solid 1px;
+	border-radius: 10px;
+	margin-right: 20px;
+	opacity: 0.5;
+}
+.btn_back:hover{
+	opacity: 1;
+    
+}
+.btn_select{
+	width: 150px;
+	height: 30px;
+	color: #ffffff;
+	font-size: 22px;
+	padding-top: 10px;
+	border: solid 1px;
+	border-radius: 10px;
+	background: #fd8560;
+	float: left;
+	opacity: 0.5;
+}
+
+.btn_select:hover{
+	opacity: 1;
+    
+}
+
+.select_text{
+	width: 420px;
+	height: 230px;
+	margin-left: 400px;
+	text-align: center;
+	margin-bottom: 80px;
+	border-radius: 10px;
+	background: #fdd6ca;
+	padding-top: 20px;
+}
+#btn{
+	width: 420px;
+	height: 0px;
+	margin-left: 450px;
+	text-align: center;
+	margin-bottom: 0px;
+	border-radius: 10px;
+}
+
+#btn2{
+	width: 420px;
+	height: 0px;
+	margin-left: 530px;
+	text-align: center;
+	margin-bottom: 0px;
+	border-radius: 10px;
+}
+
